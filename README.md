@@ -10,6 +10,11 @@ Konut Kredisi: %1,29 faiz oranı
 İhtiyaç Kredisi: %1,99 faiz oranı
 Araç Kredisi: %1,79 faiz oranı
 
+Nasıl Çalıştırılır?
+Proje dosyalarını bilgisayarınıza indirin veya kopyalayın.
+index.html dosyasını bir tarayıcıda açın.
+Kredi türünü, vade sayısını ve tutarı girerek Hesapla butonuna basın 
+
 
 #
 
@@ -21,6 +26,13 @@ Input Fields: Users can select the loan type, term (vade), and loan amount (tuta
 Calculation: The tool calculates the monthly installment and total repayment amount using predefined interest rates.
 Results Display: After calculation, the results are displayed in a table format with detailed loan information.
 Loan Types and Interest Rates:
+
+How to Run?
+Download or clone the project files to your computer.
+Open the index.html file in any web browser.
+Select the loan type, enter the term (in months), and specify the loan amount.
+Click the Calculate button, and the results will be displayed on the screen.
+
 Housing Loan: 1.29% interest rate
 Personal Loan: 1.99% interest rate
 Car Loan: 1.79% interest rate
